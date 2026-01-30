@@ -23,7 +23,7 @@ topics = bw.trending_topics(limit=10)
 
 ## Examples
 
-See [bluewhale.ipynb](bluewhale.ipynb) for interactive examples.
+See [examples.ipynb](examples.ipynb) for interactive examples.
 
 ## License
 
