@@ -1,6 +1,11 @@
 # Blue Whale
 Bluesky public API wrapper
 
+## Installation
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage
 ```python
 from bluewhale import BlueWhale
